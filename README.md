@@ -9,7 +9,7 @@ um programa que calcula a area e o perimetro de figuras geometricas
 Executar
 ----------
 
-Efetuar  execuçaoãdo código-fonte:
+Efetuar  execução do código-fonte:
 
 
         $ python3 quadrado.py
